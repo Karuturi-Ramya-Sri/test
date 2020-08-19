@@ -1,9 +1,0 @@
-Hey! 
-ramya
-<<<<<<< HEAD
-haha
-hehe
-hey
-=======
-huhu
->>>>>>> 5ccbbc2ea2461f3fa7aadbebe6ee62d87dc8f8a1
